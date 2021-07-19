@@ -2,8 +2,8 @@
   "vendor": "vtex",
   "name": "chedraui-cms-components",
   "version": "0.0.0",
-  "title": "Test",
-  "description": "Test",
+  "title": "chedraui-cms-components",
+  "description": "chedraui-cms-components",
   "builders": {
     "react": "3.x",
     "messages": "1.x",
